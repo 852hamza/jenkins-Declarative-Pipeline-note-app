@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : hamza852/my-note-app:tagname
+     image : hamza852/my-note-app
      ports :
          - "8000:8000"
